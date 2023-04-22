@@ -1,5 +1,5 @@
 # Cupa Ligii AdePlast 2016-2017 - A Simple Website
-This is my first website with MDBootstrap.  
+This is my first website with MDBootstrap. This site was made in Romanian.
 # Web Technologies Used
 * HTML
 * CSS
