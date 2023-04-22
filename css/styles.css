@@ -1,0 +1,149 @@
+#imgAn
+{
+	height: 30px;
+}
+.navbar
+{
+	font-weight: 200px;
+}
+.custom-toggler.navbar-toggler:hover {
+    border: 2px solid white;
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.nav-item .nav-link
+{
+	color: white;
+	font-weight: bold;
+}
+.navbar .dropdown-menu a
+{
+	color: white;
+	font-weight: bold;
+}
+.dropdown-default
+{
+	background-color: #d81b60;
+	color: white;
+}
+.nav-item:hover
+{
+	background-color: #c51162;
+	border-top: 2px solid white;
+}
+.dropdown-item:hover
+{
+	background-color: #c51162;
+	border-bottom: 2px solid white;
+}
+.active
+{
+	background-color: #c51162;
+}
+.activeD
+{
+	background-color: #c51162;
+}
+#hrJ
+{
+	border: 2px solid white;
+}
+.btnJ
+{
+	color: white;
+	border: 2px solid white;
+}
+.btnJ:hover
+{
+	color: #c51162;
+	font-weight: bold;
+	background-color: white;
+	border: 2px solid #c51162;
+}
+.card-headerJ
+{
+	background-color: #e0f7fa;
+	color: black;
+	font-family: Verdana;
+}
+.card-bodyJ
+{
+	font-family: Arial;
+}
+.match:hover
+{
+	background-color: #e1bee7;
+}
+h1
+{
+	font-family: Verdana;
+}
+.btnClose
+{
+	background-color: #CC0000;
+	color: white;
+	border: 2px solid white;
+	border-radius: 30px;
+}
+.btnClose:hover
+{
+	background-color: white;
+	color: #CC0000;
+	border: 2px solid #CC0000;
+	border-radius: 30px;
+}
+.tSCD
+{
+	color: #007E33;
+}
+.tDCD
+{
+	color: #CC0000;
+}
+.mT
+{
+	margin-top: 2rem;
+}
+.tWCD
+{
+	color: #FF8800;
+}
+.fa-star
+{
+	color: #880e4f;
+}
+.tRD4
+{
+	color: #b71c1c;
+}
+.tWC
+{
+	color: #ffbb33;
+}
+.tDDC
+{
+	color: #CC0000;
+}
+.fa-futbol, .fa-arrow-up
+{
+	color: #007E33;
+}
+.tSpC
+{
+	color: #37474F;
+}
+.fa-exclamation-triangle
+{
+	color: #CC0000;
+}
+.card-headerV
+{
+	background-color: #e0f7fa;
+	color: white;
+}
+.vs
+{
+  	color: black;
+  	text-shadow: 2px 2px 4px #000000;
+}
