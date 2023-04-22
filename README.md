@@ -8,5 +8,5 @@ This is my first website with MDBootstrap.
 # Installation
 1. Clone/Download this project from here
 2. Download & Install XAMPP or a similar application
-3. In xampp/htdocs folder, create a folder with name "Cupa Ligii" and copy all files there.
+3. In xampp/htdocs folder, create a folder with name "CupaLigii" and copy all files there.
 4. Open a Web Browser and go to localhost/CupaLigii 
